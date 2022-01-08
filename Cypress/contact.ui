@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ContactUsWindow</class>
+ <widget class="QMainWindow" name="ContactUsWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>850</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ContactUsWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>10</y>
+      <width>81</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font-size:12pt; font-weight:600;</string>
+    </property>
+    <property name="text">
+     <string>Cypress</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>660</x>
+      <y>10</y>
+      <width>161</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font-size:12pt; font-weight:600;</string>
+    </property>
+    <property name="text">
+     <string>City of Toronto</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>70</y>
+      <width>741</width>
+      <height>161</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>9</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 9pt &quot;MS Shell Dlg 2&quot;;</string>
+    </property>
+    <property name="text">
+     <string> City Hall 
+ 100 Queen St. W. 
+ Toronto, ON 
+
+ Office Hours: 9.00am - 6.00pm 
+ Email us at: contactus@cypress.com 
+
+ (For reporting any of the following issues, call us at the respective given contact numbers. We are open 24/7)</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>40</y>
+      <width>171</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+      <weight>62</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font-size:10pt; font-weight:500;</string>
+    </property>
+    <property name="text">
+     <string>Contact Information</string>
+    </property>
+   </widget>
+   <widget class="QTabWidget" name="tabWidget">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>260</y>
+      <width>750</width>
+      <height>121</height>
+     </rect>
+    </property>
+    <property name="whatsThis">
+     <string/>
+    </property>
+    <property name="currentIndex">
+     <number>3</number>
+    </property>
+    <property name="tabBarAutoHide">
+     <bool>false</bool>
+    </property>
+    <widget class="QWidget" name="tab_2">
+     <attribute name="title">
+      <string>Tree Collapse</string>
+     </attribute>
+     <widget class="QLabel" name="label_9">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>331</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Phone no.: 416-338-0889 
+ Fax: 416-338-0889 
+ Email: contactus@cypress.com 
+ (For urgent matters, please call us. We are open 24/7)</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_4">
+     <attribute name="title">
+      <string>Flooded Streets</string>
+     </attribute>
+     <widget class="QLabel" name="label_10">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>331</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Phone no.: 416-338-0888 
+ Fax: 416-338-0888 
+ Email: contactus@cypress.com 
+ (For urgent matters, please call us. We are open 24/7)</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab">
+     <attribute name="title">
+      <string>Mold and Spore Growth</string>
+     </attribute>
+     <widget class="QLabel" name="label_5">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>331</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Phone no.: 416-338-0887 
+ Fax: 416-338-0887 
+ Email: contactus@cypress.com 
+ (For urgent matters, please call us. We are open 24/7)</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_3">
+     <attribute name="title">
+      <string>Utility Failures</string>
+     </attribute>
+     <widget class="QLabel" name="label_6">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>331</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Phone no.: 416-338-0886 
+ Fax: 416-338-0886 
+ Email: contactus@cypress.com 
+ (For urgent matters, please call us. We are open 24/7)</string>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+   <widget class="QTabWidget" name="tabWidget_2">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>400</y>
+      <width>750</width>
+      <height>121</height>
+     </rect>
+    </property>
+    <property name="whatsThis">
+     <string/>
+    </property>
+    <property name="currentIndex">
+     <number>3</number>
+    </property>
+    <property name="tabBarAutoHide">
+     <bool>false</bool>
+    </property>
+    <widget class="QWidget" name="tab_7">
+     <attribute name="title">
+      <string>Potholes</string>
+     </attribute>
+     <widget class="QLabel" name="label_7">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>331</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Phone no.: 416-338-0885 
+ Fax: 416-338-0885 
+ Email: contactus@cypress.com 
+ (For urgent matters, please call us. We are open 24/7)</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_8">
+     <attribute name="title">
+      <string>City Property Vandalism</string>
+     </attribute>
+     <widget class="QLabel" name="label_8">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>331</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Phone no.: 416-338-0884 
+ Fax: 416-338-0884 
+ Email: contactus@cypress.com 
+ (For urgent matters, please call us. We are open 24/7)</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_9">
+     <attribute name="title">
+      <string>Eroded Streets</string>
+     </attribute>
+     <widget class="QLabel" name="label_12">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>331</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Phone no.: 416-338-0883 
+ Fax: 416-338-0883 
+ Email: contactus@cypress.com 
+ (For urgent matters, please call us. We are open 24/7)</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_10">
+     <attribute name="title">
+      <string>Garbage or Any Other Road Blocking Objects</string>
+     </attribute>
+     <widget class="QLabel" name="label_11">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>331</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Phone no.: 416-338-0882 
+ Fax: 416-338-0882 
+ Email: contactus@cypress.com 
+ (For urgent matters, please call us. We are open 24/7)</string>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>710</x>
+      <y>540</y>
+      <width>93</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font-size:10pt; font-weight:500;</string>
+    </property>
+    <property name="text">
+     <string>Home</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <tabstops>
+  <tabstop>tabWidget</tabstop>
+  <tabstop>tabWidget_2</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>

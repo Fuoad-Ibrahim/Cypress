@@ -17,8 +17,8 @@ Anyone can register as a user. User's have access to features such as viewing pr
 
 You cannot register as an admin. However, for demonstration purposes an admin has been inputted into the database. 
 The login credentials are:
-  User name: admin@cypress.ca
-  Password: AAbb123!!
+- User name: admin@cypress.ca
+- Password: AAbb123!!
 
 Admin's have access to all the features a regular user does. In addition, admin's can remove resolved reports from the database and view all reported indicidents ranked from highest priority to lowest.
   

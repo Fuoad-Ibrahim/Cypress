@@ -4,12 +4,6 @@
 
 Cypress is a desktop application which simulates a reporting service. With Cypress, users can report hazards witnessed on the roads of Toronto.
 
-Programs and tools used:
-- Python
-- PyQt5
-- Qt Designer
-- MySQL
-
 ## As a user
 
 Anyone can register as a user. User's have access to features such as viewing profile information, reporting issues and contacting Cypress staff members.

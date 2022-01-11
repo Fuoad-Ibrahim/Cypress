@@ -4,11 +4,29 @@
 
 Cypress is a desktop application which allows users to report indicidents witnessed on the roads in Toronto.
 
+## As a user
+
+Anyone can register as a user. 
+![portal1](https://user-images.githubusercontent.com/61073050/148867379-53f46814-b64a-40b2-badc-5e3941ac504d.png)
+
+
+![report](https://user-images.githubusercontent.com/61073050/148868974-6e519892-1a51-48ca-b6b1-e09c7e15e7cc.png)
+
+## As an admin
+
+You cannot register as an admin. However, for demonstration purposes an admin has been inputted into the database. 
+The login credentials are:
+  User name: admin@cypress.ca
+  Password: AAbb123!!
+  
+![admin_panel](https://user-images.githubusercontent.com/61073050/148869311-0f6d5742-7ec2-4594-b588-10c7231a544e.png)
+
+![resolve](https://user-images.githubusercontent.com/61073050/148869331-ed99d325-c77e-48e6-bcb1-7711d1b61c56.png)
+
+![ranks](https://user-images.githubusercontent.com/61073050/148869346-012be811-20ec-49ef-bc5d-c93057926f1a.png)
+
 ## Installation
 
 1. Download "Cypress Installation" and run
 2. Navigate to newly created "Cypress" folder
 3. Run main.exe
-
-
-![portal1](https://user-images.githubusercontent.com/61073050/148867379-53f46814-b64a-40b2-badc-5e3941ac504d.png)

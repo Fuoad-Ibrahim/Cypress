@@ -6,7 +6,8 @@ Cypress is a desktop application which allows users to report indicidents witnes
 
 ## As a user
 
-Anyone can register as a user. 
+Anyone can register as a user. User's have access to features such as viewing profile information, reporting issues and contacting Cypress staff.
+
 ![portal1](https://user-images.githubusercontent.com/61073050/148867379-53f46814-b64a-40b2-badc-5e3941ac504d.png)
 
 
@@ -18,6 +19,8 @@ You cannot register as an admin. However, for demonstration purposes an admin ha
 The login credentials are:
   User name: admin@cypress.ca
   Password: AAbb123!!
+
+Admin's have access to all the features a regular user does. In addition, admin's can remove resolved reports from the database and view all reported indicidents ranked from highest priority to lowest.
   
 ![admin_panel](https://user-images.githubusercontent.com/61073050/148869311-0f6d5742-7ec2-4594-b588-10c7231a544e.png)
 

@@ -2,7 +2,13 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Fuoad-Ibrahim/Cypress)
 
-Cypress is a simulation desktop application which allows users to report hazards witnessed on the roads of Toronto.
+Cypress is a desktop application which simulates a reporting service. With Cypress, users can report hazards witnessed on the roads of Toronto.
+
+Programs and tools used:
+- Python
+- PyQt5
+- Qt Designer
+- MySQL
 
 ## As a user
 

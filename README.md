@@ -2,11 +2,11 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Fuoad-Ibrahim/Cypress)
 
-Cypress is a desktop application which allows users to report indicidents witnessed on the roads in Toronto.
+Cypress is a simulation desktop application which allows users to report hazards witnessed on the roads of Toronto.
 
 ## As a user
 
-Anyone can register as a user. User's have access to features such as viewing profile information, reporting issues and contacting Cypress staff.
+Anyone can register as a user. User's have access to features such as viewing profile information, reporting issues and contacting Cypress staff members.
 
 ![portal1](https://user-images.githubusercontent.com/61073050/148867379-53f46814-b64a-40b2-badc-5e3941ac504d.png)
 
